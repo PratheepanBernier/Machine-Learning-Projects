@@ -1,0 +1,15 @@
+Problem Statement:
+
+-   The goal of this project is to develop a predictive model that accurately estimates the resale price of a car based on various features that influence its market value. The dataset contains the following features:
+
+    -   Car Brand: The manufacturer or brand of the car.
+    -   Year: The manufacturing year of the car.
+    -   Sold Price: The historical selling price of the car.
+    -   Present Price: The current price of the car in the market.
+    -   KMS Driven: The total kilometers driven by the car.
+    -   Fuel Type: The type of fuel used by the car (e.g., petrol, diesel).
+    -   Seller Type: The type of seller (e.g., individual, dealer).
+    -   Transmission Type: The type of transmission (e.g., manual, automatic).
+    -   Owners: The number of previous owners of the car.
+    
+The model will be trained on this data to predict the car's resale price, taking into account these factors to provide an accurate valuation. This will assist potential buyers and sellers in making informed decisions in the used car market.
