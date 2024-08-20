@@ -33,12 +33,12 @@ The dataset used for model training can be downloaded from Kaggle:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/PratheepanBernier/Machine-Learning-Projects.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd <project-directory>
+    cd Machine-Learning-Projects/Car_price_prediction
     ```
 
 3. Install the required dependencies:
